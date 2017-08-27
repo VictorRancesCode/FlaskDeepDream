@@ -1,5 +1,4 @@
 # FlaskDeepDream - TensorFlow - Deep Dream
-[![](images/logo.png)](https://www.tensorflow.org/)
 
 ## Using
 
